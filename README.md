@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studing on **Universidad CESMAG**
 
-- 📄 Short biography **I'm starting in the world of programming I want to learn a lot of languages currently the language that most handle is JAVA, I'm studying Systems Engineering, and I want to create projects in Git Hub so I go preparing in the workplace, also anyone who can help me to grow as a programmer I would appreciate it very much.**
+- 📄 Short biography **I'm starting in the world of programming I want to learn a lot of languages currently the language that most handle is JAVA, I'm studying Systems Engineering, and I want to create projects in Git Hub so I go preparing in the workplace, greetings.**
 
 - 📫 How to reach me **Stevenbotina9@gmail.com**
 
